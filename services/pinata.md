@@ -9,3 +9,7 @@ To set up an account, visit [pinata.cloud](https://www.pinata.cloud/) and naviga
 ## Plan Offerings
 
 Pinata offers a number of plans. Generally, for a single project the most preferred plan is the `Picnic` plan, as it provides access to 20,000 pinned files, and increased bandwidth for monthly usage. The `Picnic` plan also scales with usage, ensuring your project will not experience downtime in the event your usage exceeds the preset limits.
+
+## API Keys
+
+Once you've purchased your `Pinata` subscription, you'll navigate to `API Keys` along the right hand menu. This will allow you to `+ New Key` (in the upper right) to create the key your developer will need to access the API via `Pinata's` designated API.
