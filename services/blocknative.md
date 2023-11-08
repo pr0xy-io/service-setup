@@ -1,4 +1,6 @@
-# 🟦 Blocknative
+# 🟦 Blocknative Service Guide
+
+![pr0xy Banner](https://cdn.pr0xy.io/branding/pr0xy-github-banner.png)
 
 Blocknative offers real-time data feeds for monitoring in-flight Blockchain transactions. Users can set up custom webhooks which emit events when transactions become pending or successful/failed. This allows our developers to respond to blockchain events in real-time, triggering complex scripts whenever a user interacts with the blockchain. For example, dynamic reveals can take place which do not reveal the metadata until the token is minted.
 
