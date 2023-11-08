@@ -18,3 +18,7 @@ devin.ns.cloudflare.com
 ```
 
 And then click `Done, check nameservers`. This may take some time. But once completed you'll be able to adjust the DNS records on your site, and enable various optimizations site wide.
+
+## Adding pr0xy to Your Organizations Members
+
+To give pr0xy access to your site, you'll want to add the pr0xy developer to your list of members. To do this, select `Manage Account` within the left menu of Cloudflare. Navigate to `Members` and select `Invite` to add a member via their email.
