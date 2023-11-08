@@ -14,4 +14,8 @@ You can navigate to [their plans](https://www.blocknative.com/pricing#comparepla
 
 ## API Keys
 
-Once the subscription has been purchased, or a free subscription setup, then you can navigate to the [account page](https://explorer.blocknative.com/account). This will allow you to `Add new API key` along the right-hand side, prompting you to input a name. The key will then appear below, and can be sent to your developer, allowing them to utilize the Blocknative SDK to see blockchain transactions in real time.
+Once the subscription has been purchased, or a free subscription setup, then you can navigate to the [account page](https://explorer.blocknative.com/account). This will allow you to `Add new API key` along the right-hand side, prompting you to input a name. The key will then appear below, and can be sent to your developer, allowing them to utilize the Blocknative SDK to see blockchain transactions in real time. Click the highlighted button below to create a new API key:
+
+![blocknative create api key](https://storage.googleapis.com/pr0xy.io/guides/services/blocknative-create-api-key.png)
+
+Create the key, using all lowercase letters and no spaces - dashes or underscores are fine. For example, `example-project-key`.
